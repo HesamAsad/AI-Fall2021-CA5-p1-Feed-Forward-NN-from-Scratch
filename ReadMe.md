@@ -9,3 +9,5 @@ In this project, in the first part, we will implement a Feed Forward Neural Netw
 In this exercise we work with part of the `Cifar-10` dataset. The dataset contains images of 10 different classes, but we'll use cats and horses. 
 
 <img src="https://github.com/HesamAsad/AI-Fall2021-CA5-p1-Feed-Forward-NN-from-Scratch/blob/master/CIFAR-10.jpg?raw=true">
+
+Personal website: https://hesamasad.github.io
